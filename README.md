@@ -37,4 +37,4 @@ bash WhoRU.sh
 ```
 
 <p>WhoRU is created to help in penetration testing and it's not responsible for any misuse or illegal purposes.</p>
-<p>WhoRU is inspired by https://github.com/thelinuxchoice/ Big thanks to @thelinuxchoice</p>
+<p>WhoRU is inspired by mahi ! Big thanks to Mahi
